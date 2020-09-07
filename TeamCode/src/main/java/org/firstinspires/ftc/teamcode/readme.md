@@ -1,3 +1,8 @@
+## Team Sigma Members
+
+* Mingchuan Liu (mingchua)
+
+
 ## TeamCode Module
 
 Welcome!
