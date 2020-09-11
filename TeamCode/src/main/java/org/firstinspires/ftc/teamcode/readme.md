@@ -1,7 +1,7 @@
 ## Team Sigma Members
 
 * Mingchuan Liu (mingchua)
-
+* Ella Yu (ellayy)
 
 ## TeamCode Module
 
